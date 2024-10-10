@@ -1,0 +1,22 @@
+body{
+  background-color: azure;
+}
+.container{
+  border: 1px solid black;
+  
+}
+.info-box{
+  border-radius: 8px;
+}
+.sub{
+  border-radius: 8px;
+}
+.m-head{
+  border-radius: 8px;
+}
+.sorol{
+  border-radius: 8px;
+}
+.br{
+  border-radius: 8px;
+}
